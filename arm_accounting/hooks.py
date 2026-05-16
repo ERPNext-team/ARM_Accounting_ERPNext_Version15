@@ -1,5 +1,5 @@
 app_name = "arm_accounting"
-app_title = "Accounts and finance system "
+app_title = "Accounting_ARM "
 app_publisher = "Sync"
 app_description = "full accounting and finance system with reports and insights "
 app_email = "nafaelhadi@gmail.com"
@@ -15,7 +15,7 @@ app_license = "mit"
 # 	{
 # 		"name": "arm_accounting",
 # 		"logo": "/assets/arm_accounting/logo.png",
-# 		"title": "Accounts and finance system ",
+# 		"title": "Accounting_ARM ",
 # 		"route": "/arm_accounting",
 # 		"has_permission": "arm_accounting.api.permission.has_app_permission"
 # 	}
@@ -246,4 +246,50 @@ app_license = "mit"
 # ------------
 # List of apps whose translatable strings should be excluded from this app's translations.
 # ignore_translatable_strings_from = []
+
+fixtures = [
+    {
+        "dt": "Custom Field",
+        "filters": [
+            ["module", "in", ["Accounting_ARM"]]
+        ]
+    },
+    {
+        "dt": "Property Setter",
+        "filters": [
+            ["doc_type", "in", ["Account", "POS Invoice", "Purchase Invoice", "Sales Invoice"]]
+        ]
+    },
+    {
+        "dt": "Workspace",
+        "filters": [
+            ["name", "in", ["المحاسبة", "ايرادات", "مصروفات"]]
+        ]
+    },
+    {
+        "dt": "Client Script",
+        "filters": [
+            ["module", "in", ["Accounting_ARM"]]
+        ]
+    },
+    {
+        "dt": "Server Script",
+        "filters": [
+            ["module", "in", ["Accounting_ARM"]]
+        ]
+    },
+    {
+        "dt": "Custom HTML Block",
+        "filters": [
+            ["name", "in", ["ARM-Welcome card"]]
+        ]
+    },
+    {
+        "dt": "Print Format",
+        "filters": [
+            ["name", "in", ["ARM Standard Invoice", "ARM_Print_format"]]
+        ]
+    }
+]
+
 
