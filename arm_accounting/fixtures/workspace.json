@@ -453,8 +453,8 @@
     "type": "Link"
    }
   ],
-  "modified": "2026-05-15 23:21:02.811938",
-  "module": null,
+  "modified": "2026-05-17 01:16:12.232286",
+  "module": "Accounting_ARM",
   "name": "المحاسبة",
   "number_cards": [
    {
@@ -900,8 +900,8 @@
     "type": "Link"
    }
   ],
-  "modified": "2026-05-15 23:21:43.802184",
-  "module": null,
+  "modified": "2026-05-17 01:17:01.988666",
+  "module": "Accounting_ARM",
   "name": "ايرادات",
   "number_cards": [
    {
@@ -1349,8 +1349,8 @@
     "type": "Link"
    }
   ],
-  "modified": "2026-05-17 00:19:22.017544",
-  "module": "",
+  "modified": "2026-05-17 01:16:52.815405",
+  "module": "Accounting_ARM",
   "name": "مصروفات",
   "number_cards": [
    {

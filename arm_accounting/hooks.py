@@ -289,6 +289,24 @@ fixtures = [
         "filters": [
             ["name", "in", ["ARM Standard Invoice", "ARM_Print_format"]]
         ]
+    },
+    {
+        "dt": "Number Card",
+        "filters": [
+            ["name", "in", ["صافي دخل المشاريع", "اجمالي مبيعات ", "الذمم المدينة", "الذمم الدائنة", "عهد الموظفين", "إجمالي المصاريف التشغيلية الشهرية"]]
+        ]
+    },
+    {
+        "dt": "Dashboard Chart",
+        "filters": [
+            ["name", "in", ["تكلفة المشاريع", "مقارنة المبيعات الشهرية", "المصاريف حسب النوع", "الارباح و الخسائر"]]
+        ]
+    },
+    {
+        "dt": "Report",
+        "filters": [
+            ["name", "in", ["Purchase Register", "Sales Register", "تقرير ارباح المشاريع", "Cash Flow", "Accounts Payable", "General Ledger", "Trial Balance (Simple)", "Customer Ledger Summary", "Project Profitability", "Bank Reconciliation Statement", "Accounts Receivable Summary", "Balance Sheet", "Profit and Loss Statement", "Trial Balance"]]
+        ]
     }
 ]
 
