@@ -6,7 +6,7 @@
   }
  ],
  "content": "[{\"id\":\"ocrvfYFmV8\",\"type\":\"number_card\",\"data\":{\"number_card_name\":\"\u0635\u0627\u0641\u064a \u062f\u062e\u0644 \u0627\u0644\u0645\u0634\u0627\u0631\u064a\u0639\",\"col\":12}},{\"id\":\"125So7zi_S\",\"type\":\"chart\",\"data\":{\"chart_name\":\"\u0627\u0644\u0627\u0631\u0628\u0627\u062d \u0648 \u0627\u0644\u062e\u0633\u0627\u0626\u0631\",\"col\":12}},{\"id\":\"nnLSTa0Qek\",\"type\":\"number_card\",\"data\":{\"number_card_name\":\"\u0627\u0644\u0630\u0645\u0645 \u0627\u0644\u062f\u0627\u0626\u0646\u0629\",\"col\":6}},{\"id\":\"P1_fG1p01r\",\"type\":\"number_card\",\"data\":{\"number_card_name\":\"\u0627\u0644\u0630\u0645\u0645 \u0627\u0644\u0645\u062f\u064a\u0646\u0629\",\"col\":6}},{\"id\":\"TNRe4MTZjv\",\"type\":\"spacer\",\"data\":{\"col\":12}},{\"id\":\"wle_7_7NAF\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\"><b>\u0627\u062e\u062a\u0635\u0627\u0631\u0627\u062a</b></span>\",\"col\":12}},{\"id\":\"2vKf3AS9LR\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u0627\u0644\u0634\u062c\u0631\u0629 \u0627\u0644\u0645\u062d\u0627\u0633\u0628\u064a\u0629\",\"col\":3}},{\"id\":\"8t2EXaLRYI\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u0627\u0644\u0642\u064a\u0648\u062f \u0627\u0644\u064a\u0648\u0645\u064a\u0629\",\"col\":3}},{\"id\":\"buysugaHBL\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u0623\u062f\u0627\u0629 \u0627\u0644\u062a\u0633\u0648\u064a\u0629 \u0627\u0644\u0628\u0646\u0643\u064a\u0629\",\"col\":3}},{\"id\":\"biTJeJvKng\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u0625\u0642\u0641\u0627\u0644 \u0627\u0644\u0641\u062a\u0631\u0629 \u0627\u0644\u0645\u0627\u0644\u064a\u0629\",\"col\":3}},{\"id\":\"s48phQ6GhQ\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u062d\u0633\u0627\u0628\u0627\u062a \u0627\u0644\u0645\u0635\u0627\u0631\u0641 \",\"col\":3}},{\"id\":\"LCJLN7AJpV\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u0627\u0639\u062f\u0627\u062a \u0627\u0644\u062f\u0641\u0639\u0627\u062a \u0627\u0644\u0645\u0627\u0644\u064a\u0629\",\"col\":3}},{\"id\":\"cSlQ8wHaNT\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u0644\u0648\u062d\u0629 \u0627\u0644\u062a\u062d\u0643\u0645\",\"col\":3}},{\"id\":\"Zj4k1CbR9U\",\"type\":\"spacer\",\"data\":{\"col\":12}},{\"id\":\"jdw2yNegQj\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\"><b>\u0627\u0639\u062f\u0627\u062f\u0627\u062a</b></span>\",\"col\":12}},{\"id\":\"UjjTEkLfhl\",\"type\":\"card\",\"data\":{\"card_name\":\"\u0627\u0644\u0639\u0645\u0644\u064a\u0627\u062a \u0627\u0644\u0645\u0627\u0644\u064a\u0629\",\"col\":3}},{\"id\":\"Y839EXon1a\",\"type\":\"card\",\"data\":{\"card_name\":\"\u0627\u0644\u0647\u064a\u0643\u0644 \u0627\u0644\u0645\u0627\u0644\u064a \u0648 \u0627\u0644\u0645\u0631\u0627\u0643\u0632\",\"col\":3}},{\"id\":\"5rM9NUlFxL\",\"type\":\"card\",\"data\":{\"card_name\":\"\u0627\u0644\u062a\u0642\u0627\u0631\u064a\u0631 \u0627\u0644\u0645\u0627\u0644\u064a\u0629\",\"col\":3}},{\"id\":\"eEWr2lAsHu\",\"type\":\"card\",\"data\":{\"card_name\":\"\u0627\u0644\u0623\u0631\u0634\u0641\u0629 \u0648\u0627\u0644\u0647\u0648\u064a\u0629 \u0627\u0644\u0645\u0627\u0644\u064a\u0629\",\"col\":3}},{\"id\":\"XUVa8-kDMH\",\"type\":\"spacer\",\"data\":{\"col\":12}}]",
- "creation": "2026-04-23 21:10:59.637521",
+ "creation": "2026-05-17 21:28:24.425772",
  "custom_blocks": [],
  "docstatus": 0,
  "doctype": "Workspace",
@@ -16,7 +16,7 @@
  "idx": 0,
  "indicator_color": "",
  "is_hidden": 0,
- "label": "\u0627\u0644\u0645\u062d\u0627\u0633\u0628\u0629",
+ "label": "\u0627\u0644\u0627\u062f\u0627\u0631\u0629 \u0627\u0644\u0645\u0627\u0644\u064a\u0629",
  "links": [
   {
    "description": "\u0647\u0646\u0627 \u0627\u0644\u0627\u0639\u062f\u0627\u062f\u0627\u062a \u0627\u0644\u062e\u0627\u0635\u0629 \u0628\u062a\u0635\u0645\u0628\u0645 \u0634\u0643\u0644 \u0627\u0644\u0641\u0648\u0627\u062a\u064a\u0631 \u0648 \u0648 \u0627\u0644\u0645\u0631\u0627\u0633\u0644\u0627\u062a \u0648 \u0627\u0631\u0634\u0641\u0629 \u0627\u0644\u0641\u0629\u0627\u062a\u064a\u0631 \u0627\u0644\u0647\u0627\u0631\u062c\u064a\u0629",
@@ -260,10 +260,10 @@
    "type": "Link"
   }
  ],
- "modified": "2026-05-17 01:16:12.232286",
+ "modified": "2026-05-19 21:34:28.278187",
  "modified_by": "Administrator",
  "module": "Accounting_ARM",
- "name": "\u0627\u0644\u0645\u062d\u0627\u0633\u0628\u0629",
+ "name": "\u0627\u0644\u0627\u062f\u0627\u0631\u0629 \u0627\u0644\u0645\u0627\u0644\u064a\u0629",
  "number_cards": [
   {
    "label": "\u0627\u0644\u0630\u0645\u0645 \u0627\u0644\u062f\u0627\u0626\u0646\u0629",
@@ -340,5 +340,5 @@
    "type": "DocType"
   }
  ],
- "title": "\u0627\u0644\u0645\u062d\u0627\u0633\u0628\u0629"
+ "title": "\u0627\u0644\u0627\u062f\u0627\u0631\u0629 \u0627\u0644\u0645\u0627\u0644\u064a\u0629"
 }

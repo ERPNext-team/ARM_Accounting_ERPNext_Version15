@@ -6,7 +6,7 @@
   }
  ],
  "content": "[{\"id\":\"zE3Ti7D16E\",\"type\":\"chart\",\"data\":{\"chart_name\":\"\u0645\u0642\u0627\u0631\u0646\u0629 \u0627\u0644\u0645\u0628\u064a\u0639\u0627\u062a \u0627\u0644\u0634\u0647\u0631\u064a\u0629\",\"col\":12}},{\"id\":\"vrrtnAjYkj\",\"type\":\"number_card\",\"data\":{\"number_card_name\":\"\u0627\u0644\u0630\u0645\u0645 \u0627\u0644\u0645\u062f\u064a\u0646\u0629\",\"col\":6}},{\"id\":\"DbJuaYz10e\",\"type\":\"number_card\",\"data\":{\"number_card_name\":\"\u0627\u062c\u0645\u0627\u0644\u064a \u0645\u0628\u064a\u0639\u0627\u062a \",\"col\":6}},{\"id\":\"eoCrKoBDRe\",\"type\":\"spacer\",\"data\":{\"col\":12}},{\"id\":\"ntwe9Na1lP\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\"><b>\u0627\u062e\u062a\u0635\u0627\u0631\u0627\u062a \u0645\u0647\u0645\u0629</b></span>\",\"col\":12}},{\"id\":\"pYC0rzmSgu\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u0627\u0646\u0634\u0627\u0621 \u0639\u0631\u0636 \u0645\u0627\u0644\u064a \",\"col\":3}},{\"id\":\"Q3iPD4nRbQ\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u0627\u0646\u0634\u0627\u0621 \u0627\u0645\u0631 \u0628\u064a\u0639\",\"col\":3}},{\"id\":\"zJiM7ELN4W\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u0627\u0646\u0634\u0627\u0621 \u0641\u0627\u062a\u0648\u0631\u0629\",\"col\":3}},{\"id\":\"-2xop3PnoQ\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u0627\u0646\u0634\u0627\u0621 \u0642\u064a\u062f \u062f\u0641\u0639 \",\"col\":3}},{\"id\":\"DFv6MdwrYj\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"\u0627\u0646\u0634\u0627\u0621 \u0642\u064a\u062f \u064a\u0648\u0645\u064a\",\"col\":3}},{\"id\":\"Qwu4qzGzkL\",\"type\":\"spacer\",\"data\":{\"col\":12}},{\"id\":\"qBDJKoiLHT\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\"><b>\u0627\u0644\u062a\u0642\u0627\u0631\u064a\u0631</b></span>\",\"col\":12}},{\"id\":\"y6o7ZY-XOR\",\"type\":\"card\",\"data\":{\"card_name\":\"\u062a\u0642\u0627\u0631\u064a\u0631 \u062c\u0627\u0647\u0632\u0629\",\"col\":4}},{\"id\":\"yjwSILg0x4\",\"type\":\"card\",\"data\":{\"card_name\":\"\u0627\u0644\u0639\u0645\u0644\u064a\u0627\u062a \u0627\u0644\u0645\u0627\u0644\u064a\u0629 \\\"\u0627\u064a\u0631\u0627\u062f\\\"\",\"col\":4}},{\"id\":\"dgqBxbZd-y\",\"type\":\"card\",\"data\":{\"card_name\":\"\u0627\u0639\u062f\u0627\u062f\u0627\u062a\",\"col\":4}}]",
- "creation": "2026-04-24 18:14:11.301231",
+ "creation": "2026-05-17 21:28:07.205308",
  "custom_blocks": [],
  "docstatus": 0,
  "doctype": "Workspace",
@@ -169,7 +169,7 @@
    "type": "Link"
   }
  ],
- "modified": "2026-05-17 01:17:01.988666",
+ "modified": "2026-05-19 21:34:31.313605",
  "modified_by": "Administrator",
  "module": "Accounting_ARM",
  "name": "\u0627\u064a\u0631\u0627\u062f\u0627\u062a",
@@ -184,7 +184,7 @@
   }
  ],
  "owner": "Administrator",
- "parent_page": "\u0627\u0644\u0645\u062d\u0627\u0633\u0628\u0629",
+ "parent_page": "\u0627\u0644\u0627\u062f\u0627\u0631\u0629 \u0627\u0644\u0645\u0627\u0644\u064a\u0629",
  "public": 1,
  "quick_lists": [],
  "roles": [],
